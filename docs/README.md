@@ -1,4 +1,4 @@
-+jti*
+*jti*
 # Software-Projektmanagement
 
 
