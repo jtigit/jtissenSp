@@ -1,5 +1,5 @@
-
-# Software-Projektmanagement ###### *Jakob Tissen*
++jti*
+# Software-Projektmanagement
 
 
 ## Gruppenmitglieder:
